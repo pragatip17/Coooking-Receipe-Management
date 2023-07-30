@@ -1,0 +1,33 @@
+.logo{
+    width: 3%;
+    height: 3%;
+}
+.main{
+    background: url(./images/salad.jpg)no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    height: 90vh;
+    width: 100%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    font-style: normal;
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: aquamarine;
+    color: black;
+    font-weight: 700;
+    border-radius: 60px;
+}
+h1{
+    font-weight: 700;
+}
+.img-luid{
+    height: 10vh;
+    width: 50%;
+}

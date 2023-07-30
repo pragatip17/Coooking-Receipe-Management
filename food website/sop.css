@@ -1,0 +1,17 @@
+.main1{
+    padding: 5%;
+    height: 90vh;
+    width: 90%;
+}
+.pt-5{
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+}
+.spara{
+    text-align: left;
+    font-size: medium;
+    font-weight: 400;
+    margin-left: 2cm;
+}
